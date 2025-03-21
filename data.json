@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "9VWpo0628Ak7ZM8JjPbG",
+    "createdAt": "2025-02-07T17:29:06.093+08:00",
+    "comments": [
+      {
+        "title": "I'll create the repository today.",
+        "createdAt": "2025-02-07T17:39:19.774+08:00",
+        "id": "dw5e5rbj",
+        "user": "Bob"
+      },
+      {
+        "title": "Make sure to add the .gitignore file.",
+        "createdAt": "2025-02-07T17:35:49.071+08:00",
+        "id": "jfjwjlxi",
+        "user": "Alice"
+      },
+      {
+        "title": "Also, set the repository to private for now.",
+        "createdAt": "2025-02-07T17:31:38.142+08:00",
+        "id": "00mr0abd",
+        "user": "Alice"
+      }
+    ],
+    "description": "Create a new GitHub repository for the project and set up the initial structure.",
+    "user": "Alice",
+    "title": "Set up project repository",
+    "commentCount": 3
+  },
+  {
+    "_id": "3TIPGpzPSVfnUzn0gymv",
+    "description": "Create an ER diagram for the project's database.",
+    "title": "Design database schema",
+    "comments": [
+      {
+        "user": "Alice",
+        "createdAt": "2025-02-07T17:38:29.307+08:00",
+        "id": "ji1q04um",
+        "title": "I think we need tables for users, products, and orders."
+      },
+      {
+        "title": "Don't forget to include relationships between tables.",
+        "id": "hblqnr2c",
+        "createdAt": "2025-02-07T17:28:48.497+08:00",
+        "user": "Alice"
+      }
+    ],
+    "user": "Charlie",
+    "createdAt": "2025-02-07T16:41:38.087+08:00",
+    "commentCount": 2
+  },
+  {
+    "_id": "dSB50muAzQ4UqG9YfYam",
+    "user": "David",
+    "comments": [
+      {
+        "user": "Charlie",
+        "createdAt": "2025-02-07T16:41:24.738+08:00",
+        "id": "ja3vmdv4",
+        "title": "I'll research the best practices for JWT."
+      },
+      {
+        "title": "Maybe start with email and password first.",
+        "user": "Charlie",
+        "id": "hgh71uvz",
+        "createdAt": "2025-02-07T16:34:27.314+08:00"
+      },
+      {
+        "user": "Charlie",
+        "id": "9ni2siw4",
+        "createdAt": "2025-02-07T16:32:28.219+08:00",
+        "title": "Do we need social login as well?"
+      },
+      {
+        "id": "s4zgmj1h",
+        "createdAt": "2025-02-07T16:30:20.590+08:00",
+        "user": "Charlie",
+        "title": "I can work on this."
+      }
+    ],
+    "title": "Implement user authentication",
+    "description": "Set up login and registration functionality using JWT.",
+    "createdAt": "2025-02-07T16:28:51.881+08:00",
+    "commentCount": 4
+  },
+  {
+    "_id": "5GS1JYbdgoOvd21pWuZN",
+    "comments": [
+      {
+        "user": "Charlie",
+        "title": "I'll generate the initial docs after the endpoints are defined.",
+        "id": "x1jbjkzz",
+        "createdAt": "2025-02-07T16:35:18.102+08:00"
+      }
+    ],
+    "user": "Eve",
+    "title": "Create API documentation",
+    "createdAt": "2025-02-07T15:11:09.470+08:00",
+    "description": "Use Swagger to document all API endpoints.",
+    "commentCount": 1
+  },
+  {
+    "_id": "HcqtIJs3lTpqHboMbdzc",
+    "title": "Set up CI/CD pipeline",
+    "user": "Frank",
+    "createdAt": "2025-02-07T15:10:27.222+08:00",
+    "comments": [],
+    "description": "Configure GitHub Actions for automated testing and deployment.",
+    "commentCount": 0
+  },
+  {
+    "_id": "njhfT9JnAuPP0yoTHeps",
+    "comments": [
+      {
+        "createdAt": "2025-02-07T17:08:05.317+08:00",
+        "user": "Alice",
+        "title": "Let's use Figma for collaboration.",
+        "id": "x3phezh7"
+      }
+    ],
+    "title": "Design UI mockups",
+    "user": "Grace",
+    "description": "Create wireframes and mockups for the main pages.",
+    "createdAt": "2025-02-07T15:10:22.857+08:00",
+    "commentCount": 1
+  }
+]
